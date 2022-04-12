@@ -92,7 +92,7 @@ Every quarter of the year, leaders meet to decide the company's goals for the ne
 5. Point 2 or 3 actionable insights and recommend each respective business leveraging actions for each client segment.
 
 #### Solution:
-#####(Working On)
+**(Working On)**
   I've already done my first CRISP cycle and got some clustering results.
   Now I have to interpret them.
 
