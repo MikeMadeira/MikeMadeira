@@ -6,6 +6,8 @@ I'm a MSc computer science student in Instituto Superior Técnico de Lisboa, end
 
 My main goal is to become a professional Data Scientist, developing a diversity of solutions for data-driven real life problems, either using statistical data analysis, extracting insights and visualize them on dashboards or implementing a Machine Learning end-to-end solution.
 
+Check my [DS Portfolio](https://mikemadeira.github.io/data_science_portfolio/)
+
 <div style="display: inline_block", align = 'center'><br>
   <a href="https://github.com/egoliveira1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MikeMadeira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
