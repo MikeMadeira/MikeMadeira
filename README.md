@@ -9,7 +9,7 @@ My main goal is to become a professional Data Scientist, developing a diversity 
 Check my [DS Portfolio](https://mikemadeira.github.io/data_science_portfolio/)
 
 <div style="display: inline_block", align = 'center'><br>
-  <a href="https://github.com/egoliveira1">
+  <a href="https://github.com/MikeMadeira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MikeMadeira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeMadeira&layout=compact&langs_count=7&theme=default"/>
 </div>
