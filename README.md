@@ -2,9 +2,11 @@
 
 ### I'm Michael Madeira
 
-I'm a MSc computer science student in Instituto Superior Técnico de Lisboa, ending my thesis on Multivariate Time Series Forecasting and Causal Modelling using Dynamic Bayesian Networks.
+I'm currently a data professional, doing my freelancing and enterpreneurial journey, driven by solving real life problems, either using statistical data analysis, extracting insights and visualize them on dashboards or implementing a Machine Learning end-to-end solution.
 
-My main goal is to become a professional Data Scientist, developing a diversity of solutions for data-driven real life problems, either using statistical data analysis, extracting insights and visualize them on dashboards or implementing a Machine Learning end-to-end solution.
+Currently I'm eager to learn more from the longevity and preventive health fields and contribute to practical solutions development by applying my data scientist skills.
+
+Really excited to connect and share insights on performance and wellness with everyone interested on improving their health and life metrics overall.
 
 Check my [DS Portfolio](https://mikemadeira.github.io/data_science_portfolio/)
 
